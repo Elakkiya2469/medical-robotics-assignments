@@ -23,5 +23,5 @@
 > Pls upload the Video in Google form link
 
 # 7 Linkedin Post
-> Submit the LinkedIn post URL
-> [LinkedIn post URL]
+>
+>https://www.linkedin.com/posts/elakkiya-g-51383234a_medicalrobotics-artificialintelligence-healthcareinnovation-activity-7436276573059821568-sc5U?utm_source=share&utm_medium=member_android&rcm=ACoAAFdVA18ByzWrHYb2vXAo-_1h4og3WV7V8z8
